@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Good bye~~~~!!
-=======
 This is logout text file! Bye Bye~
->>>>>>> origin/main
